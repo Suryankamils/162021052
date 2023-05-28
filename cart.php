@@ -78,7 +78,7 @@ if(isset($_GET['delete_all'])){
    </div>
 
    <div class="cart-total">
-      <p>grand total : <span>$/-</span></p>
+      <p>Total : <span>RP.</span></p>
       <div class="flex">
          <a href="shop.php" class="option-btn">continue shopping</a>
          <a href="checkout.php" class="btn ">proceed to checkout</a>
@@ -86,11 +86,6 @@ if(isset($_GET['delete_all'])){
    </div>
 
 </section>
-
-
-
-
-
 
 
 
